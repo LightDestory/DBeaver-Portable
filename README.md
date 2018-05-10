@@ -14,7 +14,8 @@ The package doesn't include the JRE due to download-license issue. You need to m
 ## :large_orange_diamond: Issues: auto-update & manual jre download :warning:  
 I tried to implement an auto-update (and auto jre download) system for this portable edition but I stopped the project due to some issues: it requires 3rd-party library and a .net framework installed. 
 These issues are caused by me because I code in C#... so I don't know what to do.
-Should I implement it anyway? Let me know your opinions using github's issues! 
+Should I implement it anyway? Let me know your opinions using github's issues!
+### [Click Here for the implementation's repo](https://github.com/LightDestory/DBeaver-Portable-AutoUpdate-Project) 
 
 ## :large_orange_diamond: Legal :warning:  
 You can fork and do your modification but at least keep the credits!
